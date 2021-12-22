@@ -59,6 +59,7 @@ body{
     main{
         padding: 18rem 5%;
         height: 100vh;
+        background-color: black;
         background-image: url(images/people/marina-abrosimova-QZ6egMnR6HA-unsplash.jpg);
         background-size: cover;
         background-position: 50% 50%;
@@ -140,6 +141,7 @@ body{
         height: 100vh;
         background-image: url(images/people/marina-abrosimova-QZ6egMnR6HA-unsplash.jpg);
         background-size: cover;
+        background-color: black;
         background-position: 50% 50%;
         background-repeat: no-repeat;
     }
@@ -220,6 +222,7 @@ body{
         background-image: url(images/people/marina-abrosimova-QZ6egMnR6HA-unsplash.jpg);
         background-size: cover;
         background-position: 50% 50%;
+        background-color: black;
         background-repeat: no-repeat;
     }
     main > *{
@@ -299,6 +302,7 @@ body{
         background-image: url(images/people/marina-abrosimova-QZ6egMnR6HA-unsplash.jpg);
         background-size: cover;
         background-position: 50% 50%;
+        background-color: black;
         background-repeat: no-repeat;
     }
     main > *{
@@ -378,6 +382,7 @@ body{
         background-image: url(images/people/marina-abrosimova-QZ6egMnR6HA-unsplash.jpg);
         background-size: cover;
         background-position: 50% 50%;
+        background-color: black;
         background-repeat: no-repeat;
     }
     main > *{
@@ -455,6 +460,7 @@ body{
         padding: 27rem 15%;
         height: 100vh;
         background-image: url(images/people/marina-abrosimova-QZ6egMnR6HA-unsplash.jpg);
+        background-color: black;
         background-size: cover;
         background-position: 50% 50%;
         background-repeat: no-repeat;
@@ -535,6 +541,7 @@ body{
         height: 100vh;
         background-image: url(images/people/marina-abrosimova-QZ6egMnR6HA-unsplash.jpg);
         background-size: cover;
+        background-color: black;
         background-position: 50% 50%;
         background-repeat: no-repeat;
     }
@@ -621,6 +628,7 @@ body{
         padding: 27rem 15%;
         height: 100vh;
         background-image: url(images/people/marina-abrosimova-QZ6egMnR6HA-unsplash.jpg);
+        background-color: black;
         background-size: cover;
         background-position: 50% 50%;
         background-repeat: no-repeat;
@@ -704,6 +712,7 @@ body{
         padding: 23rem 15%;
         height: 100vh;
         background-image: url(images/people/marina-abrosimova-QZ6egMnR6HA-unsplash.jpg);
+        background-color: black;
         background-size: cover;
         background-position: 50% 50%;
         background-repeat: no-repeat;
@@ -787,6 +796,7 @@ body{
         padding: 23rem 20%;
         height: 100vh;
         background-image: url(images/people/marina-abrosimova-QZ6egMnR6HA-unsplash.jpg);
+        background-color: black;
         background-size: cover;
         background-position: 50% 50%;
         background-repeat: no-repeat;
@@ -870,6 +880,7 @@ body{
         padding: 23rem 20%;
         background-image: url(images/people/marina-abrosimova-QZ6egMnR6HA-unsplash.jpg);
         background-size: cover;
+        background-color: black;
         background-position: 50% 50%;
         background-repeat: no-repeat;
     }
