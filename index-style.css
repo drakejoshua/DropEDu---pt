@@ -85,6 +85,7 @@ body{
         color: snow;
         border-radius: 2rem;
         border: none;
+        text-align: center;
         font-size: 2.5rem;
         outline: none;
         display: block;
@@ -166,6 +167,7 @@ body{
         border-radius: 2rem;
         border: none;
         font-size: 2.5rem;
+        text-align: center;
         outline: none;
         text-decoration: none;
         display: block;
@@ -245,6 +247,7 @@ body{
         color: snow;
         border-radius: 1rem;
         border: none;
+        text-align: center;
         font-size: 2.5rem;
         outline: none;
         text-decoration: none;
@@ -326,6 +329,7 @@ body{
         border-radius: 2rem;
         border: none;
         font-size: 2.5rem;
+        text-align: center;
         outline: none;
         text-decoration: none;
         display: block;
@@ -407,6 +411,7 @@ body{
         border: none;
         font-size: 2.5rem;
         text-decoration: none;
+        text-align: center;
         outline: none;
         display: block;
         margin: auto;
@@ -487,6 +492,7 @@ body{
         border: none;
         font-size: 2.5rem;
         text-decoration: none;
+        text-align: center;
         outline: none;
         display: block;
         margin: auto;
@@ -567,6 +573,7 @@ body{
         border: none;
         font-size: 2.5rem;
         text-decoration: none;
+        text-align: center;
         outline: none;
         display: block;
         margin: auto;
@@ -651,6 +658,7 @@ body{
         background-color: rgb(93, 10, 201);
         color: snow;
         text-decoration: none;
+        text-align: center;
         border-radius: 2rem;
         border: none;
         outline: none;
@@ -736,6 +744,7 @@ body{
         color: snow;
         border-radius: 2rem;
         text-decoration: none;
+        text-align: center;
         border: none;
         outline: none;
     }
@@ -819,6 +828,7 @@ body{
         background-color: rgb(93, 10, 201);
         color: snow;
         text-decoration: none;
+        text-align: center;
         border-radius: 2rem;
         border: none;
         outline: none;
@@ -902,6 +912,7 @@ body{
         background-color: rgb(93, 10, 201);
         color: snow;
         border-radius: 2rem;
+        text-align: center;
         text-decoration: none;
         border: none;
         outline: none;
