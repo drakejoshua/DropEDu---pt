@@ -16,6 +16,7 @@ This is a bootcamp sample site created by mabawonku joshua
 - Semantic HTML5 markup
 - CSS custom properties
 - CSS Grid
+- CSS FlexBox
 
 ## Author
 
