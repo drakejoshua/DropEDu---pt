@@ -9,7 +9,7 @@ This is a bootcamp sample site created by mabawonku joshua
 
 ### Links
 
-- Live Site URL: [https://drakejoshua.github.io/DropEDu/]
+- Live Site URL: [https://drakejoshua.github.io/DropEDu---pt/]
 
 ### Built with
 
